@@ -8,6 +8,6 @@ Create a pull request with the best meme you find!
 
 **Deadline - 12 am**
 
-![Alt text]([https://blog.codeitbro.com/wp-content/uploads/2025/08/git-remote-add-origin-meme.png)](https://th.bing.com/th/id/OIP.QsYxY33omgKdQNdr25WU8gHaJW?w=154&h=195&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3)
+![Alt text]([https://th.bing.com/th/id/OIP.QsYxY33omgKdQNdr25WU8gHaJW?w=154&h=195&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3])
 1
 WOW
